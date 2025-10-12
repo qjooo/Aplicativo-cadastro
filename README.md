@@ -4,8 +4,6 @@ Um aplicativo para **cadastro de consultas**, com **confirmação automática po
 
 ---
 
-## Funcionalidades
-
 ### Aplicativo de Cadastro (`cadastro.py`)
 - Interface moderna desenvolvida com **CustomTkinter**.  
 - Cadastro de pacientes com:
