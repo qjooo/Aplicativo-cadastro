@@ -5,7 +5,7 @@ Um aplicativo para **cadastro de consultas**, com **confirmação automática po
 ---
 
 ### Aplicativo de Cadastro (`cadastro.py`)
-- Interface moderna desenvolvida com **CustomTkinter**.  
+- Interface desenvolvida com **CustomTkinter**.  
 - Cadastro de pacientes com:
   - Nome, e-mail, data da consulta, tipo de tratamento e detalhes.  
   - Escolha do método de pagamento (Pix, Cartão, Dinheiro, etc.).  
@@ -14,7 +14,7 @@ Um aplicativo para **cadastro de consultas**, com **confirmação automática po
 - Salvamento automático dos registros em **consultas.csv**.
 
 ### Dashboard de Dados (`app.py`)
-- Interface web feita em **Streamlit**.  
+- Interface feita com **Streamlit**.  
 - Leitura automática do arquivo `consultas.csv`.  
 - Exibição de:
   - Lista completa de consultas.  
