@@ -23,7 +23,7 @@ def enviar_email(nome, email, data, tratamento, pagamento):
 
     try:
         with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
-            server.login("gomycsgo1@gmail.com", "sifd nkjr pmdp lkes")
+            server.login("E-Mail", "(Chave de E-Mail)")
             server.send_message(msg)
         return True
     except Exception as e:
@@ -120,5 +120,6 @@ combo_parcelas = ctk.CTkComboBox(
 
 botao = ctk.CTkButton(frame, text="Cadastrar e Enviar E-mail", command=cadastrar)
 botao.pack(pady=20)
+
 
 root.mainloop()
