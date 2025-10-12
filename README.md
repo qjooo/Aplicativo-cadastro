@@ -13,6 +13,9 @@ Um aplicativo para **cadastro de consultas**, com **confirmação automática po
 - Envio automático de **e-mail de confirmação** ao paciente.  
 - Salvamento automático dos registros em **consultas.csv**.
 
+<img width="518" height="583" alt="image" src="https://github.com/user-attachments/assets/bc21f3a7-7d33-4d16-b771-4f1458d41528" />
+
+
 ### Dashboard de Dados (`app.py`)
 - Interface feita com **Streamlit**.  
 - Leitura automática do arquivo `consultas.csv`.  
@@ -23,6 +26,9 @@ Um aplicativo para **cadastro de consultas**, com **confirmação automática po
     - Distribuição por tipo de tratamento.  
     - Distribuição por meio de pagamento.  
 - Filtros dinâmicos por tipo de tratamento e forma de pagamento.
+
+<img width="1677" height="966" alt="image" src="https://github.com/user-attachments/assets/49588483-0609-431f-9937-8935f7e4221a" />
+
 
 ---
 
