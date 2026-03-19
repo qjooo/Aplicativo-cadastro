@@ -40,3 +40,10 @@ Um aplicativo para **cadastro de consultas**, com **confirmação automática po
 - [Plotly Express](https://plotly.com/python/plotly-express/)
 - **smtplib** e **email.mime** (para envio de e-mails)
 - **Pandas** e **CSV** (para armazenamento e leitura de dados)
+
+---
+
+## Documentação TCC
+
+[Trabalho Escrito](https://docs.google.com/document/d/1EieKvDDlOzUqjuYOYmx5MdtK0UVqbC6Y/edit?usp=sharing)  
+[Apresentação](https://www.canva.com/design/DAG2d8-3BEg/SQ-pKfhnCDHXNehQ8QXSbg/edit?utm_content=DAG2d8-3BEg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
